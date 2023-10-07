@@ -135,7 +135,7 @@ nav li:hover{
 }
 
 .container > :first-child{
-  grid-column: 1/4;
+  grid-column: 1/-1;
   background-image: url("../images/header.jpg");
   background-attachment: fixed;
   background-position: center;
