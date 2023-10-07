@@ -132,6 +132,7 @@ nav li:hover{
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   gap: 15px;
+  align-items: center;
 }
 
 .container > :first-child{
