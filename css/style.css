@@ -205,7 +205,7 @@ nav li:hover{
 
   .container{
     display: grid;
-    grid-template-columns: 50px auto 500px 50px;
+    grid-template-columns: 50px auto 500px auto 50px;
   }
 
   .about, .clients, .method-image, .contact-image{
