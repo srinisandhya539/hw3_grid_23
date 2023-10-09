@@ -209,11 +209,11 @@ nav li:hover{
   }
 
   .about, .clients, .method-image, .contact-image{
-    grid-column: 3/6;
+    grid-column: 3/ span 2;
   }
 
   .method, .contact, .about-image, .clients-image{
-    grid-column: 2/5;
+    grid-column: 2/ span 2;
   }
 
   .text-block{
